@@ -1,2 +1,8 @@
+@charset "UTF-8";
 /* CSS Document */
-
+/*Colors used:*/
+.logo {
+}
+.logo img{
+	width: 250px;
+}
