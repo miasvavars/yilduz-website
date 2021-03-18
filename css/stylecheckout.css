@@ -59,4 +59,9 @@ h2 {
 h4 {
 	background-color: #C4E6F2;
 }
+.btn-primary {
+	color: black;
+	background-color: #9ED6E5;
+	border-color: black;
+}
 

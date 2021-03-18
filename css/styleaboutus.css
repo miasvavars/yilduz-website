@@ -51,3 +51,8 @@ nav {
 	color: black;
 	border-color: #286484;	
 }
+.btn-primary {
+	color: black;
+	background-color: #9ED6E5;
+	border-color: black;
+}
