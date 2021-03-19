@@ -57,3 +57,20 @@ nav {
 	background-color: #9ED6E5;
 	border-color: black;
 }
+.footer {
+  background: #9ED6E5;
+  padding: 10px 0;
+}
+.footer a {
+  color: #286484;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #286484;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #286484;
+}
+.footer a:hover {
+  color: white;
+}
