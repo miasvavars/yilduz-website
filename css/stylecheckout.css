@@ -47,17 +47,16 @@ nav {
 .navbar-toggler-icon {
 	background-image:url("../images/dropdownmenu.png")
 }
-.btn-outline-success {
-	color: black;
-	border-color: #286484;
-	
-}
 
 h2 {
 	background-color: #C4E6F2;
 }
 h4 {
 	background-color: #C4E6F2;
+}
+.btn-outline-success {
+	color: black;
+	border-color: #286484;
 }
 .btn-primary {
 	color: black;
@@ -81,4 +80,3 @@ h4 {
 .footer a:hover {
   color: white;
 }
-
