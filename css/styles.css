@@ -26,7 +26,7 @@ h1, h2, h3 {
 }
 
 nav {
-	background: #9ED6E5
+	background: #9ED6E5;
 }
 
 .nav-link {
@@ -45,7 +45,7 @@ nav {
 }
 
 .navbar-toggler-icon {
-	background-image:url("../images/dropdownmenu.png")
+	background-image:url("../images/dropdownmenu.png");
 }
 .btn-outline-success {
 	color: black;
@@ -60,16 +60,22 @@ nav {
   background: #9ED6E5;
   padding: 10px 0;
 }
-.footer a {
-  color: #286484;
-  font-size: 20px;
-  padding: 10px;
-  border-right: 1px solid #286484;
-  transition: all .5s ease;
+
+.social-icons {
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:40px;
+  height:40px;
+  margin-right: 20px;
 }
-.footer a:first-child {
-  border-left: 1px solid #286484;
-}
-.footer a:hover {
-  color: #286484;
-}
+
