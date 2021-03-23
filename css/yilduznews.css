@@ -21,6 +21,10 @@ h3 {
   color: black;
 }
 
+h6 {
+	font-style: italic;
+}
+
 .logo {
   background-color: #9ed6e5;
 }
