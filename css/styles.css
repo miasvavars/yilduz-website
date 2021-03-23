@@ -98,3 +98,27 @@ nav {
 .bg-dark {
   background-color: transparent !important;
 }
+.blog-pagination {
+  margin-bottom: 4rem;
+}
+.blog-pagination > .btn {
+  border-radius: 2rem;
+}
+
+.blog-post {
+  margin-bottom: 4rem;
+}
+.blog-post-title {
+  margin-bottom: 0.25rem;
+  font-size: 2.5rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #999;
+}
+
+.my-container-blogpost1 {
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin: 30px;
+}
