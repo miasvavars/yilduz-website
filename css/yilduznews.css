@@ -21,6 +21,10 @@ h3 {
   color: black;
 }
 
+h6 {
+	font-style: italic;
+}
+
 .logo {
   background-color: #9ed6e5;
 }
@@ -114,4 +118,10 @@ nav {
 .blog-post-meta {
   margin-bottom: 1.25rem;
   color: #999;
+}
+
+.my-container-blogpost1 {
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin: 30px;
 }
