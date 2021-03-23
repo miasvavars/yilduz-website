@@ -52,6 +52,10 @@ nav {
 .navbar-toggler-icon {
   background-image: url("../images/dropdownmenu.png");
 }
+.btn {
+	margin: 0 auto;
+	display: block;
+}
 .btn-outline-success {
   color: black;
   border-color: #286484;
