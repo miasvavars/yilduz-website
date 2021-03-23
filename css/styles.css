@@ -11,6 +11,7 @@
 */
 body {
 	font-family: 'Lato', sans-serif;
+	background-color: #9ED6E5;
 }
 
 h1, h2, h3 {
@@ -19,14 +20,16 @@ h1, h2, h3 {
 }
 
 .logo {
+	background-color: #9ED6E5;
 }
 
 .logo img{
-	width: 250px;
+	width: 100px;
 }
 
 nav {
 	background: #9ED6E5;
+	font-weight: bold;
 }
 
 .nav-link {
@@ -82,4 +85,13 @@ nav {
 	 width:40px;
   height:40px;
   margin-right: 20px;
+}
+.card-title {
+	color: black;
+}
+.card-text {
+	color: black;
+}
+.bg-dark {
+	background-color: transparent!important;
 }
