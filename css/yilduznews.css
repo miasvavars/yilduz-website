@@ -115,3 +115,9 @@ nav {
   margin-bottom: 1.25rem;
   color: #999;
 }
+
+.my-container-blogpost1 {
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	margin: 30px;
+}
