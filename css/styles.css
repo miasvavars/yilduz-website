@@ -126,3 +126,10 @@ nav {
 	background-color: #FFFFFF;
 	margin: 30px;
 }
+.jumbotron {
+	 text-align: center;
+}
+.display-4 {
+	font-size:45px;
+	font-weight: bold
+}
