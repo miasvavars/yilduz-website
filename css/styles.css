@@ -14,9 +14,7 @@ body {
   background-color: #9ed6e5;
 }
 
-h1,
-h2,
-h3 {
+h1,h2,h3 {
   text-transform: uppercase;
   color: black;
 }
@@ -128,6 +126,7 @@ nav {
 }
 .jumbotron {
 	 text-align: center;
+	background-color: #C4E6F2
 }
 .display-4 {
 	font-size:45px;
