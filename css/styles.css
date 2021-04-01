@@ -168,3 +168,13 @@ nav {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+.featurette-image {
+	width: auto;
+	height: 450px;
+}
+.changecolor {
+	background: #C4E6F2;
+}
+.lead {
+	font-size: 20px;
+}
