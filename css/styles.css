@@ -182,7 +182,9 @@ nav {
 background-color:#C4E6F2;
 
 }
-.row {
-padding-right: 30px;
-	
+.lead {
+  margin-left: 20px;
+}
+.featurette-heading {
+  margin-left: 20px;
 }
