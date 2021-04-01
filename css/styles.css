@@ -181,3 +181,13 @@ nav {
 .card-img {
 	width: 30px;
 }
+
+.bg-light {
+background-color:#C4E6F2;
+
+}
+.lead {
+  margin-left: 15px;
+}
+.featurette-heading {
+  margin-left: 15px;}
