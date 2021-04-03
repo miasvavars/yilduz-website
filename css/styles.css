@@ -263,3 +263,6 @@ nav {
 	text-align: left;
 	font-style: italic;
 }
+.blog-pagination {
+	margin-left: 25px;
+}
