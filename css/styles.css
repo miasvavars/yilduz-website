@@ -1,8 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 /*Colors used:
-#FFFFFF black
-#000000 white
+#000000 black
+#FFFFFF white
 #286484 navy blue
 #81C0EA sea blue
 #9ED6E5 light blue
@@ -12,6 +12,7 @@
 body {
   font-family: "Lato", sans-serif;
   background-color: #9ed6e5;
+	margin-left: 25px
 }
 
 h1,h2,h3 {
@@ -190,4 +191,11 @@ background-color:#C4E6F2;
   margin-left: 15px;
 }
 .featurette-heading {
-  margin-left: 15px;}
+  margin-left: 15px;
+}
+
+.articlesection{
+	background-color: #FFFFFF;
+	border: 2px solid #286484;
+	padding: 25px;
+}
