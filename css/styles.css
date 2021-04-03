@@ -203,3 +203,11 @@ background-color:#C4E6F2;
 .header-yilduznews{
 	text-align: center;
 }
+.card-body {
+	text-align: center;
+}
+
+.colornames {
+	text-align: left;
+	font-style: italic;
+}
