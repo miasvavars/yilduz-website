@@ -256,7 +256,7 @@ nav {
 .service-3 {
 }
 .card-body {
-	text-align: center;
+	margin-left: 25px;
 }
 
 .colornames {
@@ -264,5 +264,8 @@ nav {
 	font-style: italic;
 }
 .blog-pagination {
+	margin-left: 25px;
+}
+.card-bodytwo {
 	margin-left: 25px;
 }
