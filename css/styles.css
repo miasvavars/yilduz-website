@@ -255,3 +255,11 @@ nav {
 }
 .service-3 {
 }
+.card-body {
+	text-align: center;
+}
+
+.colornames {
+	text-align: left;
+	font-style: italic;
+}
